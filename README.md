@@ -1,10 +1,2 @@
-#include<stdio.h>
-int main() 
-{
-char str[]="Ibqqz!Ipmj!Tjs!Kj",*p;
-p=str;
-while(*p!='\0')
---*p++;
-printf("%s",str);
-return '0';
-}
+#Ceaser cipher method!
+This is one of the most old communication way after Morse code to share secret messgaes.
